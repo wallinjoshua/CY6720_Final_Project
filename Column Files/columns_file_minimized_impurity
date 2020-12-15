@@ -1,0 +1,49 @@
+# DEMOGRAPHIC & IDENTIFYING INFORMATION
+## 0: Student ID
+STU_ID
+## 1: English self-efficacy score (N)
+## -2.197 - 1.596 
+BYENGLSE
+## 2: Socio-economic status version 1 (N)
+## Based on 1961 career prestige scale
+## -2.11 - 1.82
+BYSES1
+## 3: Socio-economic status version 2 (N)
+## Based on 1988 career prestige scale
+## -2.11 - 1.98
+BYSES2
+
+# ACADEMIC PERFORMANCE DATA
+## 4: Student Math standardized test score (N)
+## 19.38 - 86.68
+BYTXMSTD
+## 5: Student Reading standardized test score (N)
+## 22.57 - 78.76
+BYTXRSTD
+## 6: Student PISA Math score (N?)
+## 308.08 - 732.24
+BYPISAME
+## 7: Student PISA Reading score (N?)
+## 344.31 - 709.26
+BYPISARE
+
+# STUDENT SURVEY DATA
+## 8: How successful student expects to be in learning (N)
+## -2.521 - 1.580
+BYCONEXP
+## 9: How much effort and persistence student perceives in self (N)
+## -2.424 - 1.702
+BYACTCTL
+## 10: How many hours does student spend on homework per week (Co)
+## 0.0 - 99.0
+BYHMWRK
+
+# TARGET VARIABLE
+# 11: Completed high school by second follow-up (C)
+# 1 - 9, 1 and 3 are on-time, all others are not
+F2HSSTAT
+
+# CODE KEY
+## N=already normalized
+## C=categorical (do not normalize)
+## Co=continuous, unnormalized

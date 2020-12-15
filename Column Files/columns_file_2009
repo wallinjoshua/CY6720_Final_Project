@@ -1,0 +1,81 @@
+# DEMOGRAPHIC & IDENTIFYING INFORMATION
+## 0: Student ID
+STU_ID
+## 1: Sex (C)
+## 1 (Male), 2 (Female)
+X1SEX
+## 2: Science self-efficacy score (N)
+## -9.00 - 1.83 
+X1SCIEFF
+## 3: Math self-efficacy score (N)
+## -9.00 - 1.62
+X1MTHEFF
+## 4: Socio-economic status(N)
+## Based on 1961 career prestige scale
+## -8.00-2.8807
+X1SES
+
+# ATTENDANCE & DISCIPLINARY INFORMATION
+## 5: Suspended or put on probation
+## 1 (Never) - 5 (10 or more times)
+## REPLACE WITH -4
+
+# ACADEMIC PERFORMANCE DATA
+## 5: Repeated Kindergarten (C)
+## 0 (No) - 1 (Yes)
+P2REPEATGK
+## 6: Repeated 1st Grade (C)
+## 0 (No) - 1 (Yes)
+P2REPEATG1
+## 7: Repeated 2nd Grade (C)
+## 0 (No) - 1 (Yes)
+P2REPEATG2
+## 8: Repeated 3rd Grade (C)
+## 0 (No) - 1 (Yes)
+P2REPEATG3
+## 9: Repeated 4th Grade (C)
+## 0 (No) - 1 (Yes)
+P2REPEATG4
+## 10: Repeated 5th Grade (C)
+## 0 (No) - 1 (Yes)
+P2REPEATG5
+## 11: Repeated 6th Grade (C)
+## 0 (No) - 1 (Yes)
+P2REPEATG6
+## 12: Repeated 7th Grade (C)
+## 0 (No) - 1 (Yes)
+P2REPEATG7
+## 13: Repeated 8th Grade (C)
+## 0 (No) - 1 (Yes)
+P2REPEATG8
+## 14: Repeated 9th Grade (C)
+## 0 (No) - 1 (Yes)
+P2REPEATG9
+## 15: Repeated 10th Grade (C)
+## 0 (No) - 1 (Yes)
+P2REPEATG10
+
+## 16: Student Math standardized test score (N)
+## -8.00 - 3.0283
+X1TXMTH
+## 17: Student PISA Math score (N?)
+## 308.08 - 732.24
+## SET TO MEAN OF 2002 COLUMN: 497.2329404731924
+
+# STUDENT SURVEY DATA
+## 18: Math Effort (N)
+## -9.00 - 1.18
+X2MEFFORT
+## 19: Science Effort (N)
+## -9.00 - 1.10
+X2SEFFORT
+
+# TARGET VARIABLE
+# 20: Completed high school by 2013 (C)
+# 1 - 5, 1 is on-time, all others are not
+X3HSCOMPSTAT
+
+# CODE KEY
+## N=already normalized
+## C=categorical (do not normalize)
+## Co=continuous, unnormalized

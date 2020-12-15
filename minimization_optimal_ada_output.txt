@@ -1,0 +1,1000 @@
+Test 1
+	Adaboost Accuracy:
+		Overall: 0.6654320987654321
+		Negative Class: 0.692
+		Recall: 0.692
+		Precision: 0.2711598746081505
+		F-Measure: 0.38963963963963966
+		G-Mean: 0.6761095233697281
+		Best Overall Accuracy: 0.6654320987654321
+		Best Negative Accuracy: 0.692
+Test 2
+	Adaboost Accuracy:
+		Overall: 0.6725308641975308
+		Negative Class: 0.6482300884955752
+		Recall: 0.6482300884955752
+		Precision: 0.24518828451882846
+		F-Measure: 0.35579842137219186
+		G-Mean: 0.6621998106889027
+		Best Overall Accuracy: 0.6654320987654321
+		Best Negative Accuracy: 0.692
+Test 3
+	Adaboost Accuracy:
+		Overall: 0.6765432098765433
+		Negative Class: 0.6646090534979424
+		Recall: 0.6646090534979424
+		Precision: 0.2673841059602649
+		F-Measure: 0.38134592680047225
+		G-Mean: 0.6715924563110249
+		Best Overall Accuracy: 0.6654320987654321
+		Best Negative Accuracy: 0.692
+Test 4
+	Adaboost Accuracy:
+		Overall: 0.6694444444444444
+		Negative Class: 0.7122448979591837
+		Recall: 0.7122448979591837
+		Precision: 0.272869429241595
+		F-Measure: 0.39457320520067835
+		G-Mean: 0.6865687317207385
+		Best Overall Accuracy: 0.6694444444444444
+		Best Negative Accuracy: 0.7122448979591837
+Test 5
+	Adaboost Accuracy:
+		Overall: 0.6842592592592592
+		Negative Class: 0.6570327552986512
+		Recall: 0.6570327552986512
+		Precision: 0.2875210792580101
+		F-Measure: 0.4
+		G-Mean: 0.6730474089928796
+		Best Overall Accuracy: 0.6694444444444444
+		Best Negative Accuracy: 0.7122448979591837
+Test 6
+	Adaboost Accuracy:
+		Overall: 0.6743827160493827
+		Negative Class: 0.6845238095238095
+		Recall: 0.6845238095238095
+		Precision: 0.27800161160354553
+		F-Measure: 0.39541547277936967
+		G-Mean: 0.6784926451795892
+		Best Overall Accuracy: 0.6694444444444444
+		Best Negative Accuracy: 0.7122448979591837
+Test 7
+	Adaboost Accuracy:
+		Overall: 0.6811728395061728
+		Negative Class: 0.7169811320754716
+		Recall: 0.7169811320754716
+		Precision: 0.27580645161290324
+		F-Measure: 0.39836924868957485
+		G-Mean: 0.6956693013264929
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 8
+	Adaboost Accuracy:
+		Overall: 0.6719135802469136
+		Negative Class: 0.6482213438735178
+		Recall: 0.6482213438735178
+		Precision: 0.27040395713107995
+		F-Measure: 0.3816172193135544
+		G-Mean: 0.6621110926854409
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 9
+	Adaboost Accuracy:
+		Overall: 0.6848765432098766
+		Negative Class: 0.6382113821138211
+		Recall: 0.6382113821138211
+		Precision: 0.2713915298184961
+		F-Measure: 0.3808368708308066
+		G-Mean: 0.6651527614886841
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 10
+	Adaboost Accuracy:
+		Overall: 0.6796296296296296
+		Negative Class: 0.6484375
+		Recall: 0.6484375
+		Precision: 0.27899159663865547
+		F-Measure: 0.3901292596944771
+		G-Mean: 0.6667034180058214
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 11
+	Adaboost Accuracy:
+		Overall: 0.682716049382716
+		Negative Class: 0.7086614173228346
+		Recall: 0.7086614173228346
+		Precision: 0.2903225806451613
+		F-Measure: 0.41189931350114417
+		G-Mean: 0.6931058076837247
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 12
+	Adaboost Accuracy:
+		Overall: 0.6848765432098766
+		Negative Class: 0.6890756302521008
+		Recall: 0.6890756302521008
+		Precision: 0.27310574521232306
+		F-Measure: 0.39117471675611204
+		G-Mean: 0.6866101047118711
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 13
+	Adaboost Accuracy:
+		Overall: 0.687037037037037
+		Negative Class: 0.6756238003838771
+		Recall: 0.6756238003838771
+		Precision: 0.29406850459482037
+		F-Measure: 0.409778812572759
+		G-Mean: 0.6823900089250718
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 14
+	Adaboost Accuracy:
+		Overall: 0.6734567901234568
+		Negative Class: 0.6714579055441479
+		Recall: 0.6714579055441479
+		Precision: 0.26693877551020406
+		F-Measure: 0.3820093457943925
+		G-Mean: 0.6726331186524871
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 15
+	Adaboost Accuracy:
+		Overall: 0.6734567901234568
+		Negative Class: 0.692
+		Recall: 0.692
+		Precision: 0.2768
+		F-Measure: 0.39542857142857146
+		G-Mean: 0.680948243957575
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 16
+	Adaboost Accuracy:
+		Overall: 0.6854938271604938
+		Negative Class: 0.6465863453815262
+		Recall: 0.6465863453815262
+		Precision: 0.27639484978540774
+		F-Measure: 0.3872519542994588
+		G-Mean: 0.6691785655155218
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 17
+	Adaboost Accuracy:
+		Overall: 0.6891975308641975
+		Negative Class: 0.6732456140350878
+		Recall: 0.6732456140350878
+		Precision: 0.263519313304721
+		F-Measure: 0.37877853177051196
+		G-Mean: 0.6824648565305572
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 18
+	Adaboost Accuracy:
+		Overall: 0.687962962962963
+		Negative Class: 0.6590909090909091
+		Recall: 0.6590909090909091
+		Precision: 0.2738197424892704
+		F-Measure: 0.38690115221346266
+		G-Mean: 0.6758490967540922
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 19
+	Adaboost Accuracy:
+		Overall: 0.6873456790123457
+		Negative Class: 0.693359375
+		Recall: 0.693359375
+		Precision: 0.2931461601981833
+		F-Measure: 0.412071967498549
+		G-Mean: 0.6897789474420851
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 20
+	Adaboost Accuracy:
+		Overall: 0.6669753086419753
+		Negative Class: 0.7284768211920529
+		Recall: 0.7284768211920529
+		Precision: 0.25660964230171074
+		F-Measure: 0.3795284646348476
+		G-Mean: 0.6918047772857364
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 21
+	Adaboost Accuracy:
+		Overall: 0.6839506172839506
+		Negative Class: 0.6780952380952381
+		Recall: 0.6780952380952381
+		Precision: 0.2939719240297275
+		F-Measure: 0.41013824884792627
+		G-Mean: 0.6815801008195602
+		Best Overall Accuracy: 0.6811728395061728
+		Best Negative Accuracy: 0.7169811320754716
+Test 22
+	Adaboost Accuracy:
+		Overall: 0.6944444444444444
+		Negative Class: 0.720703125
+		Recall: 0.720703125
+		Precision: 0.3034539473684211
+		F-Measure: 0.42708333333333337
+		G-Mean: 0.7049371808405709
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 23
+	Adaboost Accuracy:
+		Overall: 0.6885802469135802
+		Negative Class: 0.6841085271317829
+		Recall: 0.6841085271317829
+		Precision: 0.2944120100083403
+		F-Measure: 0.41166180758017495
+		G-Mean: 0.6867627709093981
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 24
+	Adaboost Accuracy:
+		Overall: 0.675
+		Negative Class: 0.6537717601547389
+		Recall: 0.6537717601547389
+		Precision: 0.27887788778877887
+		F-Measure: 0.39097744360902253
+		G-Mean: 0.6662814366459499
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 25
+	Adaboost Accuracy:
+		Overall: 0.691358024691358
+		Negative Class: 0.7098646034816247
+		Recall: 0.7098646034816247
+		Precision: 0.30156121610517667
+		F-Measure: 0.42329873125720874
+		G-Mean: 0.6987677108614807
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 26
+	Adaboost Accuracy:
+		Overall: 0.6719135802469136
+		Negative Class: 0.6867219917012448
+		Recall: 0.6867219917012448
+		Precision: 0.26629123089300083
+		F-Measure: 0.38376811594202903
+		G-Mean: 0.677967999195733
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 27
+	Adaboost Accuracy:
+		Overall: 0.6830246913580247
+		Negative Class: 0.660455486542443
+		Recall: 0.660455486542443
+		Precision: 0.26988155668358715
+		F-Measure: 0.3831831831831832
+		G-Mean: 0.6735865092616798
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 28
+	Adaboost Accuracy:
+		Overall: 0.6762345679012346
+		Negative Class: 0.655831739961759
+		Recall: 0.655831739961759
+		Precision: 0.283003300330033
+		F-Measure: 0.3953890489913545
+		G-Mean: 0.6678860611984807
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 29
+	Adaboost Accuracy:
+		Overall: 0.6648148148148149
+		Negative Class: 0.6620553359683794
+		Recall: 0.6620553359683794
+		Precision: 0.268
+		F-Measure: 0.3815489749430524
+		G-Mean: 0.6636884190113636
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 30
+	Adaboost Accuracy:
+		Overall: 0.6925925925925925
+		Negative Class: 0.6848484848484848
+		Recall: 0.6848484848484848
+		Precision: 0.2875318066157761
+		F-Measure: 0.4050179211469534
+		G-Mean: 0.6894036290896314
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 31
+	Adaboost Accuracy:
+		Overall: 0.6845679012345679
+		Negative Class: 0.632295719844358
+		Recall: 0.632295719844358
+		Precision: 0.28065630397236613
+		F-Measure: 0.38875598086124397
+		G-Mean: 0.6626321481639716
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 32
+	Adaboost Accuracy:
+		Overall: 0.683641975308642
+		Negative Class: 0.6641366223908919
+		Recall: 0.6641366223908919
+		Precision: 0.2921535893155259
+		F-Measure: 0.4057971014492754
+		G-Mean: 0.6756833787307769
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 33
+	Adaboost Accuracy:
+		Overall: 0.6925925925925925
+		Negative Class: 0.6918489065606361
+		Recall: 0.6918489065606361
+		Precision: 0.2926829268292683
+		F-Measure: 0.4113475177304964
+		G-Mean: 0.6922889461498422
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 34
+	Adaboost Accuracy:
+		Overall: 0.6753086419753086
+		Negative Class: 0.676056338028169
+		Recall: 0.676056338028169
+		Precision: 0.27383863080684595
+		F-Measure: 0.3897911832946636
+		G-Mean: 0.6756146087351396
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 35
+	Adaboost Accuracy:
+		Overall: 0.6845679012345679
+		Negative Class: 0.655241935483871
+		Recall: 0.655241935483871
+		Precision: 0.2763605442176871
+		F-Measure: 0.3887559808612441
+		G-Mean: 0.6723324853065317
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 36
+	Adaboost Accuracy:
+		Overall: 0.6824074074074075
+		Negative Class: 0.7236580516898609
+		Recall: 0.7236580516898609
+		Precision: 0.2902711323763955
+		F-Measure: 0.41434262948207173
+		G-Mean: 0.6988158525067346
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 37
+	Adaboost Accuracy:
+		Overall: 0.6694444444444444
+		Negative Class: 0.672
+		Recall: 0.672
+		Precision: 0.27031375703942073
+		F-Measure: 0.3855421686746988
+		G-Mean: 0.6704873486289901
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 38
+	Adaboost Accuracy:
+		Overall: 0.6685185185185185
+		Negative Class: 0.6529774127310062
+		Recall: 0.6529774127310062
+		Precision: 0.26001635322976285
+		F-Measure: 0.3719298245614035
+		G-Mean: 0.6620594015572178
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 39
+	Adaboost Accuracy:
+		Overall: 0.6876543209876543
+		Negative Class: 0.6640926640926641
+		Recall: 0.6640926640926641
+		Precision: 0.2910321489001692
+		F-Measure: 0.4047058823529412
+		G-Mean: 0.67797039547881
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 40
+	Adaboost Accuracy:
+		Overall: 0.6817901234567901
+		Negative Class: 0.6946107784431138
+		Recall: 0.6946107784431138
+		Precision: 0.2838499184339315
+		F-Measure: 0.4030110017371164
+		G-Mean: 0.6869860676398768
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 41
+	Adaboost Accuracy:
+		Overall: 0.6876543209876543
+		Negative Class: 0.6551020408163265
+		Recall: 0.6551020408163265
+		Precision: 0.2757731958762887
+		F-Measure: 0.3881499395405079
+		G-Mean: 0.6740055548292097
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 42
+	Adaboost Accuracy:
+		Overall: 0.6722222222222223
+		Negative Class: 0.7364016736401674
+		Recall: 0.7364016736401674
+		Precision: 0.2732919254658385
+		F-Measure: 0.3986409966024915
+		G-Mean: 0.6977437144952642
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 43
+	Adaboost Accuracy:
+		Overall: 0.6833333333333333
+		Negative Class: 0.6985743380855397
+		Recall: 0.6985743380855397
+		Precision: 0.2809172809172809
+		F-Measure: 0.4007009345794392
+		G-Mean: 0.689534241757329
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 44
+	Adaboost Accuracy:
+		Overall: 0.6904320987654321
+		Negative Class: 0.6755102040816326
+		Recall: 0.6755102040816326
+		Precision: 0.2817021276595745
+		F-Measure: 0.3975975975975976
+		G-Mean: 0.6842440949304015
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 45
+	Adaboost Accuracy:
+		Overall: 0.7052469135802469
+		Negative Class: 0.6540642722117203
+		Recall: 0.6540642722117203
+		Precision: 0.3094812164579606
+		F-Measure: 0.42015786278081363
+		G-Mean: 0.6839657569657855
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 46
+	Adaboost Accuracy:
+		Overall: 0.6851851851851852
+		Negative Class: 0.676595744680851
+		Recall: 0.676595744680851
+		Precision: 0.26812816188870153
+		F-Measure: 0.3840579710144928
+		G-Mean: 0.6816006607890569
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 47
+	Adaboost Accuracy:
+		Overall: 0.6833333333333333
+		Negative Class: 0.6625258799171843
+		Recall: 0.6625258799171843
+		Precision: 0.2704987320371936
+		F-Measure: 0.3841536614645858
+		G-Mean: 0.674641461371308
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 48
+	Adaboost Accuracy:
+		Overall: 0.679320987654321
+		Negative Class: 0.6466942148760331
+		Recall: 0.6466942148760331
+		Precision: 0.26502963590177814
+		F-Measure: 0.375975975975976
+		G-Mean: 0.6655962651111261
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 49
+	Adaboost Accuracy:
+		Overall: 0.6873456790123457
+		Negative Class: 0.70276008492569
+		Recall: 0.70276008492569
+		Precision: 0.2749169435215947
+		F-Measure: 0.3952238805970149
+		G-Mean: 0.6936832883392577
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 50
+	Adaboost Accuracy:
+		Overall: 0.687962962962963
+		Negative Class: 0.6927710843373494
+		Recall: 0.6927710843373494
+		Precision: 0.286783042394015
+		F-Measure: 0.4056437389770723
+		G-Mean: 0.6899245518670779
+		Best Overall Accuracy: 0.6944444444444444
+		Best Negative Accuracy: 0.720703125
+Test 1
+	Adaboost Accuracy:
+		Overall: 0.7046296296296296
+		Negative Class: 0.7153996101364523
+		Recall: 0.7153996101364523
+		Precision: 0.31154499151103565
+		F-Measure: 0.43406268480189236
+		G-Mean: 0.7089727336140861
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 2
+	Adaboost Accuracy:
+		Overall: 0.721604938271605
+		Negative Class: 0.6540755467196819
+		Recall: 0.6540755467196819
+		Precision: 0.31125827814569534
+		F-Measure: 0.4217948717948718
+		G-Mean: 0.6928935619971929
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 3
+	Adaboost Accuracy:
+		Overall: 0.700925925925926
+		Negative Class: 0.658
+		Recall: 0.658
+		Precision: 0.2919254658385093
+		F-Measure: 0.4044253226797787
+		G-Mean: 0.6829081224071325
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 4
+	Adaboost Accuracy:
+		Overall: 0.7209876543209877
+		Negative Class: 0.6791338582677166
+		Recall: 0.6791338582677166
+		Precision: 0.31767955801104975
+		F-Measure: 0.43287327478042664
+		G-Mean: 0.7035143718363656
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 5
+	Adaboost Accuracy:
+		Overall: 0.7141975308641976
+		Negative Class: 0.6784313725490196
+		Recall: 0.6784313725490196
+		Precision: 0.31227436823104693
+		F-Measure: 0.4276885043263288
+		G-Mean: 0.6993332620574776
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 6
+	Adaboost Accuracy:
+		Overall: 0.7108024691358025
+		Negative Class: 0.6847389558232931
+		Recall: 0.6847389558232931
+		Precision: 0.30419268510258696
+		F-Measure: 0.4212476837554045
+		G-Mean: 0.6999681745722739
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 7
+	Adaboost Accuracy:
+		Overall: 0.7148148148148148
+		Negative Class: 0.668041237113402
+		Recall: 0.668041237113402
+		Precision: 0.2980680772769089
+		F-Measure: 0.41221374045801523
+		G-Mean: 0.6950011148667492
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 8
+	Adaboost Accuracy:
+		Overall: 0.7145061728395061
+		Negative Class: 0.6504065040650406
+		Recall: 0.6504065040650406
+		Precision: 0.2982292637465051
+		F-Measure: 0.4089456869009584
+		G-Mean: 0.6871562858178054
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 9
+	Adaboost Accuracy:
+		Overall: 0.7166666666666667
+		Negative Class: 0.6465863453815262
+		Recall: 0.6465863453815262
+		Precision: 0.3026315789473684
+		F-Measure: 0.41229193341869397
+		G-Mean: 0.6867434676489588
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 10
+	Adaboost Accuracy:
+		Overall: 0.720679012345679
+		Negative Class: 0.683991683991684
+		Recall: 0.683991683991684
+		Precision: 0.30406654343807765
+		F-Measure: 0.4209852847088932
+		G-Mean: 0.7052044187551018
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 11
+	Adaboost Accuracy:
+		Overall: 0.7027777777777777
+		Negative Class: 0.6639004149377593
+		Recall: 0.6639004149377593
+		Precision: 0.2854594112399643
+		F-Measure: 0.39925140361821587
+		G-Mean: 0.6863565016029746
+		Best Overall Accuracy: 0.7046296296296296
+		Best Negative Accuracy: 0.7153996101364523
+Test 12
+	Adaboost Accuracy:
+		Overall: 0.7092592592592593
+		Negative Class: 0.7301927194860813
+		Recall: 0.7301927194860813
+		Precision: 0.29472774416594644
+		F-Measure: 0.4199507389162562
+		G-Mean: 0.7178591283146534
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 13
+	Adaboost Accuracy:
+		Overall: 0.712037037037037
+		Negative Class: 0.6186612576064908
+		Recall: 0.6186612576064908
+		Precision: 0.2904761904761905
+		F-Measure: 0.39533376539209336
+		G-Mean: 0.6714739471052722
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 14
+	Adaboost Accuracy:
+		Overall: 0.7154320987654321
+		Negative Class: 0.70625
+		Recall: 0.70625
+		Precision: 0.3026785714285714
+		F-Measure: 0.42375
+		G-Mean: 0.7116190842118364
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 15
+	Adaboost Accuracy:
+		Overall: 0.7114197530864198
+		Negative Class: 0.673469387755102
+		Recall: 0.673469387755102
+		Precision: 0.2986425339366516
+		F-Measure: 0.41379310344827586
+		G-Mean: 0.6954663682650334
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 16
+	Adaboost Accuracy:
+		Overall: 0.7317901234567902
+		Negative Class: 0.6995884773662552
+		Recall: 0.6995884773662552
+		Precision: 0.3198494825964252
+		F-Measure: 0.43899289864428664
+		G-Mean: 0.718280899150067
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 17
+	Adaboost Accuracy:
+		Overall: 0.7290123456790123
+		Negative Class: 0.6924643584521385
+		Recall: 0.6924643584521385
+		Precision: 0.31865042174320524
+		F-Measure: 0.43645699614890887
+		G-Mean: 0.7136773572421706
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 18
+	Adaboost Accuracy:
+		Overall: 0.7157407407407408
+		Negative Class: 0.6765285996055227
+		Recall: 0.6765285996055227
+		Precision: 0.3118181818181818
+		F-Measure: 0.4268823895457374
+		G-Mean: 0.6993856780643212
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 19
+	Adaboost Accuracy:
+		Overall: 0.7299382716049383
+		Negative Class: 0.6707566462167689
+		Recall: 0.6707566462167689
+		Precision: 0.31477927063339733
+		F-Measure: 0.42847811887655124
+		G-Mean: 0.7047461493225314
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 20
+	Adaboost Accuracy:
+		Overall: 0.7148148148148148
+		Negative Class: 0.7110655737704918
+		Recall: 0.7110655737704918
+		Precision: 0.3070796460176991
+		F-Measure: 0.4289245982694685
+		G-Mean: 0.7132691979015925
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 21
+	Adaboost Accuracy:
+		Overall: 0.7290123456790123
+		Negative Class: 0.6937119675456389
+		Recall: 0.6937119675456389
+		Precision: 0.3199251637043966
+		F-Measure: 0.4379001280409731
+		G-Mean: 0.7142264812283806
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 22
+	Adaboost Accuracy:
+		Overall: 0.717283950617284
+		Negative Class: 0.6666666666666666
+		Recall: 0.6666666666666666
+		Precision: 0.31307550644567217
+		F-Measure: 0.42606516290726815
+		G-Mean: 0.6960555182550343
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 23
+	Adaboost Accuracy:
+		Overall: 0.7080246913580247
+		Negative Class: 0.6993603411513859
+		Recall: 0.6993603411513859
+		Precision: 0.28949691085613416
+		F-Measure: 0.4094881398252185
+		G-Mean: 0.7044075372971896
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 24
+	Adaboost Accuracy:
+		Overall: 0.7169753086419753
+		Negative Class: 0.6795366795366795
+		Recall: 0.6795366795366795
+		Precision: 0.31912964641885766
+		F-Measure: 0.4342998149290561
+		G-Mean: 0.7014645106655717
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 25
+	Adaboost Accuracy:
+		Overall: 0.7166666666666667
+		Negative Class: 0.6452282157676349
+		Recall: 0.6452282157676349
+		Precision: 0.2939508506616257
+		F-Measure: 0.4038961038961039
+		G-Mean: 0.6859075444276705
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 26
+	Adaboost Accuracy:
+		Overall: 0.7154320987654321
+		Negative Class: 0.6380368098159509
+		Recall: 0.6380368098159509
+		Precision: 0.29517502365184484
+		F-Measure: 0.40362225097024584
+		G-Mean: 0.6820921267611897
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 27
+	Adaboost Accuracy:
+		Overall: 0.7274691358024692
+		Negative Class: 0.6653620352250489
+		Recall: 0.6653620352250489
+		Precision: 0.3231939163498099
+		F-Measure: 0.4350607805502239
+		G-Mean: 0.7012618122850681
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 28
+	Adaboost Accuracy:
+		Overall: 0.7169753086419753
+		Negative Class: 0.6836518046709129
+		Recall: 0.6836518046709129
+		Precision: 0.29541284403669726
+		F-Measure: 0.41255605381165916
+		G-Mean: 0.7028773503055765
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 29
+	Adaboost Accuracy:
+		Overall: 0.7234567901234568
+		Negative Class: 0.6823529411764706
+		Recall: 0.6823529411764706
+		Precision: 0.32162661737523107
+		F-Measure: 0.4371859296482412
+		G-Mean: 0.7063232121833111
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 30
+	Adaboost Accuracy:
+		Overall: 0.7089506172839506
+		Negative Class: 0.6965376782077393
+		Recall: 0.6965376782077393
+		Precision: 0.301056338028169
+		F-Measure: 0.42040565457897966
+		G-Mean: 0.7038146749853078
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 31
+	Adaboost Accuracy:
+		Overall: 0.7182098765432099
+		Negative Class: 0.7063655030800822
+		Recall: 0.7063655030800822
+		Precision: 0.3087971274685817
+		F-Measure: 0.42973141786383506
+		G-Mean: 0.7133012614950933
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 32
+	Adaboost Accuracy:
+		Overall: 0.7
+		Negative Class: 0.6485943775100401
+		Recall: 0.6485943775100401
+		Precision: 0.2883928571428571
+		F-Measure: 0.39925834363411616
+		G-Mean: 0.6782857097900616
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 33
+	Adaboost Accuracy:
+		Overall: 0.7188271604938271
+		Negative Class: 0.6959183673469388
+		Recall: 0.6959183673469388
+		Precision: 0.30915684496826834
+		F-Measure: 0.4281230382925298
+		G-Mean: 0.7092853546251426
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 34
+	Adaboost Accuracy:
+		Overall: 0.717283950617284
+		Negative Class: 0.6921529175050302
+		Recall: 0.6921529175050302
+		Precision: 0.3107497741644083
+		F-Measure: 0.42892768079800503
+		G-Mean: 0.706839349040353
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 35
+	Adaboost Accuracy:
+		Overall: 0.7179012345679012
+		Negative Class: 0.6218637992831542
+		Recall: 0.6218637992831542
+		Precision: 0.3304761904761905
+		F-Measure: 0.43159203980099503
+		G-Mean: 0.677393692257851
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 36
+	Adaboost Accuracy:
+		Overall: 0.7283950617283951
+		Negative Class: 0.6619433198380567
+		Recall: 0.6619433198380567
+		Precision: 0.3144230769230769
+		F-Measure: 0.4263363754889179
+		G-Mean: 0.7000496208691821
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 37
+	Adaboost Accuracy:
+		Overall: 0.7225308641975309
+		Negative Class: 0.6854368932038835
+		Recall: 0.6854368932038835
+		Precision: 0.3238532110091743
+		F-Measure: 0.43987538940809967
+		G-Mean: 0.7071453255488734
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 38
+	Adaboost Accuracy:
+		Overall: 0.7209876543209877
+		Negative Class: 0.6766917293233082
+		Recall: 0.6766917293233082
+		Precision: 0.32967032967032966
+		F-Measure: 0.44334975369458124
+		G-Mean: 0.702691296394882
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 39
+	Adaboost Accuracy:
+		Overall: 0.7219135802469135
+		Negative Class: 0.6327800829875518
+		Recall: 0.6327800829875518
+		Precision: 0.29640427599611274
+		F-Measure: 0.40370615486432826
+		G-Mean: 0.6831321799939225
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 40
+	Adaboost Accuracy:
+		Overall: 0.703395061728395
+		Negative Class: 0.6765327695560254
+		Recall: 0.6765327695560254
+		Precision: 0.28368794326241137
+		F-Measure: 0.3997501561524048
+		G-Mean: 0.6920812082618256
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 41
+	Adaboost Accuracy:
+		Overall: 0.7080246913580247
+		Negative Class: 0.7355371900826446
+		Recall: 0.7355371900826446
+		Precision: 0.303236797274276
+		F-Measure: 0.4294330518697226
+		G-Mean: 0.7191833061600332
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 42
+	Adaboost Accuracy:
+		Overall: 0.7290123456790123
+		Negative Class: 0.6714285714285714
+		Recall: 0.6714285714285714
+		Precision: 0.3514018691588785
+		F-Measure: 0.4613496932515337
+		G-Mean: 0.7053783632877154
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 43
+	Adaboost Accuracy:
+		Overall: 0.7268518518518519
+		Negative Class: 0.6811594202898551
+		Recall: 0.6811594202898551
+		Precision: 0.310377358490566
+		F-Measure: 0.42644199611147116
+		G-Mean: 0.7074988219523244
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 44
+	Adaboost Accuracy:
+		Overall: 0.7129629629629629
+		Negative Class: 0.6468253968253969
+		Recall: 0.6468253968253969
+		Precision: 0.30241187384044527
+		F-Measure: 0.4121365360303414
+		G-Mean: 0.6848671242035987
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 45
+	Adaboost Accuracy:
+		Overall: 0.7092592592592593
+		Negative Class: 0.6941649899396378
+		Recall: 0.6941649899396378
+		Precision: 0.3039647577092511
+		F-Measure: 0.4227941176470588
+		G-Mean: 0.70302306061191
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 46
+	Adaboost Accuracy:
+		Overall: 0.7037037037037037
+		Negative Class: 0.6673076923076923
+		Recall: 0.6673076923076923
+		Precision: 0.30599647266313934
+		F-Measure: 0.4195888754534462
+		G-Mean: 0.6886436394951997
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 47
+	Adaboost Accuracy:
+		Overall: 0.7123456790123457
+		Negative Class: 0.6697936210131332
+		Recall: 0.6697936210131332
+		Precision: 0.32075471698113206
+		F-Measure: 0.433778857837181
+		G-Mean: 0.6947923217565514
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 48
+	Adaboost Accuracy:
+		Overall: 0.7021604938271605
+		Negative Class: 0.6604938271604939
+		Recall: 0.6604938271604939
+		Precision: 0.2863514719000892
+		F-Measure: 0.3995021779713752
+		G-Mean: 0.6845650035660139
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 49
+	Adaboost Accuracy:
+		Overall: 0.7246913580246913
+		Negative Class: 0.664488017429194
+		Recall: 0.664488017429194
+		Precision: 0.29242569511025884
+		F-Measure: 0.4061251664447403
+		G-Mean: 0.6986783175716473
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813
+Test 50
+	Adaboost Accuracy:
+		Overall: 0.7160493827160493
+		Negative Class: 0.6767676767676768
+		Recall: 0.6767676767676768
+		Precision: 0.3059360730593607
+		F-Measure: 0.42138364779874216
+		G-Mean: 0.6995663081135799
+		Best Overall Accuracy: 0.7092592592592593
+		Best Negative Accuracy: 0.7301927194860813

@@ -1,0 +1,66 @@
+# DEMOGRAPHIC & IDENTIFYING INFORMATION
+## 0: Student ID
+STU_ID
+## 1: Is English first language? (C)
+## 0 - No, 1 - Yes 
+BYSTLANG
+## 2: English self-efficacy score (N)
+## -2.197 - 1.596 
+BYENGLSE
+## 3: Student' native language (C)
+## 1-6, various language choices
+BYHOMLNG
+## 4: Student's English fluency (C)
+## 0-4
+BYSTLNG2
+## 5: Socio-economic status version 1 (N)
+## Based on 1961 career prestige scale
+## -2.11 - 1.82
+BYSES1
+## 6: Socio-economic status version 2 (N)
+## Based on 1988 career prestige scale
+## -2.11 - 1.98
+BYSES2
+## 7: Learning Disabilities (C)
+## Student has specific learning disabilities
+## 0, -9, -8, -7, -4, -3, -3, -1 (No), 1 (Yes)
+BYP50A
+## 8: Speech/Language Disabilities (C)
+## Student has speech/language disabilities
+## 0, -9, -8, -7, -4, -3, -3, -1 (No), 1 (Yes)
+BYP50B
+## 9: Mental Disabilities (C)
+## Student has mental disabilities
+## 0, -9, -8, -7, -4, -3, -3, -1 (No), 1 (Yes)
+BYP50C
+## 10: Emotional Disabilities (C)
+## Student has emotional disabilities
+## 0, -9, -8, -7, -4, -3, -3, -1 (No), 1 (Yes)
+BYP50D
+## 11: Hearing Disabilities (C)
+## Student has hearing disabilities
+## 0, -9, -8, -7, -4, -3, -3, -1 (No), 1 (Yes)
+BYP50E
+## 12: Orthopedic Disabilities (C)
+## Student has orthopedic disabilities
+## 0, -9, -8, -7, -4, -3, -3, -1 (No), 1 (Yes)
+BYP50F
+## 13: Visual Disabilities (C)
+## Student has visual disability
+## 0, -9, -8, -7, -4, -3, -3, -1 (No), 1 (Yes)
+BYP50G
+## 14: Other Disabilities (C)
+## Student has other disability
+## 0, -9, -8, -7, -4, -3, -3, -1 (No), 1 (Yes)
+BYP50H
+
+
+# TARGET VARIABLE
+# 15: Completed high school by second follow-up (C)
+# 1 - 9, 1 and 3 are on-time, all others are not
+F2HSSTAT
+
+# CODE KEY
+## N=already normalized
+## C=categorical (do not normalize)
+## Co=continuous, unnormalized

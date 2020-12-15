@@ -1,0 +1,107 @@
+# DEMOGRAPHIC & IDENTIFYING INFORMATION
+## 0: Student ID
+STU_ID
+## 1: Sex (C)
+## 1 (Male), 2 (Female)
+BYSEX
+## 2: Race/Ethnicity (C)
+## 1 - 7 (various ethnicities)
+BYRACE
+## 3: Is English first language? (C)
+## 0 - No, 1 - Yes 
+BYSTLANG
+## 4: English self-efficacy score (N)
+## -2.197 - 1.596 
+BYENGLSE
+## 5: Student' native language (C)
+## 1-6, various language choices
+BYHOMLNG
+## 6: Student's English fluency (C)
+## 0-4
+BYSTLNG2
+## 7: Socio-economic status version 1 (N)
+## Based on 1961 career prestige scale
+## -2.11 - 1.82
+BYSES1
+## 8: Socio-economic status version 2 (N)
+## Based on 1988 career prestige scale
+## -2.11 - 1.98
+BYSES2
+## 9: 10th grade enrollment at student's school (C)
+## 1 (1-99 students) - 7 (700+ students)
+BYG10EP
+## 10: Urbanicity of school (C)
+## 1 (Urban), 2 (Suburban), 3 (Rural)
+BYURBAN
+## 11: Region of school (C)
+## 1 (NE), 2 (MW), 3 (S), 4(W)
+BYREGION
+
+# ATTENDANCE & DISCIPLINARY INFORMATION
+## 12: Tardiness Rate English (C)
+## 1 (Never) - 5 (Always)
+BYTE15
+## 13: Tardiness Rate Math (C)
+## 1 (Never) - 5 (Always)
+BYTM15
+## 14: In-school suspensions (C)
+## 1 (Never) - 5 (10 or more times)
+BYS24E
+## 15: Suspended or put on probation
+## 1 (Never) - 5 (10 or more times)
+BYS24F
+
+# ACADEMIC PERFORMANCE DATA
+## GPA over all 4 years
+## F1RGPP2
+## 16: How many grades repeated (C)
+## 0 (Has never repeated a grade) - 2 (Repeated 2 or more grades)
+BYGRDRPT
+## 17: Last grade repeated by student (C)
+## 0-10, -3 for N/A
+BYLGRRPT
+## 18: Student has an IEP
+## 0 (No), 1 (Yes), -9 (Unknown, merge with 0)
+BYIEPFLG
+## 19: Student Math standardized test score (N)
+## 19.38 - 86.68
+BYTXMSTD
+## 20: Student Reading standardized test score (N)
+## 22.57 - 78.76
+BYTXRSTD
+## 21: Student PISA Math score (N?)
+## 308.08 - 732.24
+BYPISAME
+## 22: Student PISA Reading score (N?)
+## 344.31 - 709.26
+BYPISARE
+
+# STUDENT SURVEY DATA
+## 23: How far student thinks they'll get in their education (C)
+## 1 (Not finish HS) - 7 (PhD/MD)
+BYSTEXP
+## 24: How far parent wants student to go in their education (C)
+## 1 (Not finish HS) - 7 (PhD/MD)
+BYPARASP
+## 25: How successful student expects to be in learning (N)
+## -2.521 - 1.580
+BYCONEXP
+## 26: How much effort and persistence student perceives in self (N)
+## -2.424 - 1.702
+BYACTCTL
+## 27: How many hours does student spend on homework per week (Co)
+## 0.0 - 99.0
+BYHMWRK
+## 28: Took or plans to take the PSAT (C)
+## 1, 2 (No or Doesn't know), 3, 4, 5 (Yes or plans to)
+BYS55A
+
+# TARGET VARIABLE
+# 29: Completed high school by second follow-up (C)
+# 1 - 9, 1 and 3 are on-time, all others are not
+F2HSSTAT
+
+# CODE KEY
+## N=already normalized
+## C=categorical (do not normalize)
+## Co=continuous, unnormalized

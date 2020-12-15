@@ -1,0 +1,51 @@
+# DEMOGRAPHIC & IDENTIFYING INFORMATION
+## 0: Student ID
+STU_ID
+## 1: Sex (C)
+## 1 (Male), 2 (Female)
+BYSEX
+## 2: English self-efficacy score (N)
+## -2.197 - 1.596 
+BYENGLSE
+## 3: Socio-economic status version 1 (N)
+## Based on 1961 career prestige scale
+## -2.11 - 1.82
+BYSES1
+## 4: Socio-economic status version 2 (N)
+## Based on 1988 career prestige scale
+## -2.11 - 1.98
+BYSES2
+
+# ATTENDANCE & DISCIPLINARY INFORMATION
+## 5: Suspended or put on probation
+## 1 (Never) - 5 (10 or more times)
+BYS24F
+
+# ACADEMIC PERFORMANCE DATA
+## 6: How many grades repeated (C)
+## 0 (Has never repeated a grade) - 2 (Repeated 2 or more grades)
+BYGRDRPT
+## 7: Last grade repeated by student (C)
+## 0-10, -3 for N/A
+BYLGRRPT
+## 8: Student Math standardized test score (N)
+## 19.38 - 86.68
+BYTXMSTD
+## 9: Student PISA Math score (N?)
+## 308.08 - 732.24
+BYPISAME
+
+# STUDENT SURVEY DATA
+## 10: How much effort and persistence student perceives in self (N)
+## -2.424 - 1.702
+BYACTCTL
+
+# TARGET VARIABLE
+# 11: Completed high school by second follow-up (C)
+# 1 - 9, 1 and 3 are on-time, all others are not
+F2HSSTAT
+
+# CODE KEY
+## N=already normalized
+## C=categorical (do not normalize)
+## Co=continuous, unnormalized

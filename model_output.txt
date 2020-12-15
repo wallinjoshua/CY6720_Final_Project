@@ -1,0 +1,380 @@
+REDUCING POSITIVE SAMPLE SIZE BY 0.00%
+Proportion of Positive to Negative samples: 5.58:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.84 (+/- 0.01)
+5-fold Accuracy for SVC: 0.85 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.87 (+/- 0.00)
+5-fold Accuracy for Adaboost: 0.86 (+/- 0.01)
+KNN Accuracy:
+		Overall: 0.8095679012345679
+		Negative Class: 0.21875
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8533950617283951
+		Negative Class: 0.30859375
+Adaboost Accuracy:
+		Overall: 0.8450617283950618
+		Negative Class: 0.259765625
+REDUCING POSITIVE SAMPLE SIZE BY 5.00%
+Proportion of Positive to Negative samples: 5.30:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.83 (+/- 0.01)
+5-fold Accuracy for SVC: 0.84 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.86 (+/- 0.01)
+5-fold Accuracy for Adaboost: 0.86 (+/- 0.00)
+KNN Accuracy:
+		Overall: 0.8070987654320988
+		Negative Class: 0.244140625
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8487654320987654
+		Negative Class: 0.322265625
+Adaboost Accuracy:
+		Overall: 0.8453703703703703
+		Negative Class: 0.263671875
+REDUCING POSITIVE SAMPLE SIZE BY 10.00%
+Proportion of Positive to Negative samples: 5.02:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.82 (+/- 0.01)
+5-fold Accuracy for SVC: 0.83 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.86 (+/- 0.01)
+5-fold Accuracy for Adaboost: 0.85 (+/- 0.01)
+KNN Accuracy:
+		Overall: 0.8052469135802469
+		Negative Class: 0.244140625
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8453703703703703
+		Negative Class: 0.30859375
+Adaboost Accuracy:
+		Overall: 0.8503086419753086
+		Negative Class: 0.296875
+REDUCING POSITIVE SAMPLE SIZE BY 15.00%
+Proportion of Positive to Negative samples: 4.74:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.81 (+/- 0.01)
+5-fold Accuracy for SVC: 0.83 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.86 (+/- 0.00)
+5-fold Accuracy for Adaboost: 0.84 (+/- 0.01)
+KNN Accuracy:
+		Overall: 0.7981481481481482
+		Negative Class: 0.259765625
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8481481481481481
+		Negative Class: 0.349609375
+Adaboost Accuracy:
+		Overall: 0.8462962962962963
+		Negative Class: 0.310546875
+REDUCING POSITIVE SAMPLE SIZE BY 20.00%
+Proportion of Positive to Negative samples: 4.46:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.80 (+/- 0.01)
+5-fold Accuracy for SVC: 0.82 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.85 (+/- 0.01)
+5-fold Accuracy for Adaboost: 0.83 (+/- 0.01)
+KNN Accuracy:
+		Overall: 0.7987654320987654
+		Negative Class: 0.23046875
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8450617283950618
+		Negative Class: 0.357421875
+Adaboost Accuracy:
+		Overall: 0.8416666666666667
+		Negative Class: 0.294921875
+REDUCING POSITIVE SAMPLE SIZE BY 25.00%
+Proportion of Positive to Negative samples: 4.19:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.79 (+/- 0.02)
+5-fold Accuracy for SVC: 0.81 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.84 (+/- 0.01)
+5-fold Accuracy for Adaboost: 0.83 (+/- 0.01)
+KNN Accuracy:
+		Overall: 0.7929012345679012
+		Negative Class: 0.265625
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8398148148148148
+		Negative Class: 0.361328125
+Adaboost Accuracy:
+		Overall: 0.8450617283950618
+		Negative Class: 0.314453125
+REDUCING POSITIVE SAMPLE SIZE BY 30.00%
+Proportion of Positive to Negative samples: 3.91:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.78 (+/- 0.01)
+5-fold Accuracy for SVC: 0.80 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.84 (+/- 0.01)
+5-fold Accuracy for Adaboost: 0.82 (+/- 0.01)
+KNN Accuracy:
+		Overall: 0.7901234567901234
+		Negative Class: 0.287109375
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8435185185185186
+		Negative Class: 0.40625
+Adaboost Accuracy:
+		Overall: 0.8388888888888889
+		Negative Class: 0.337890625
+REDUCING POSITIVE SAMPLE SIZE BY 35.00%
+Proportion of Positive to Negative samples: 3.63:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.76 (+/- 0.01)
+5-fold Accuracy for SVC: 0.78 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.83 (+/- 0.01)
+5-fold Accuracy for Adaboost: 0.81 (+/- 0.01)
+KNN Accuracy:
+		Overall: 0.7854938271604939
+		Negative Class: 0.2578125
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8385802469135802
+		Negative Class: 0.390625
+Adaboost Accuracy:
+		Overall: 0.8407407407407408
+		Negative Class: 0.359375
+REDUCING POSITIVE SAMPLE SIZE BY 40.00%
+Proportion of Positive to Negative samples: 3.35:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.76 (+/- 0.02)
+5-fold Accuracy for SVC: 0.77 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.83 (+/- 0.01)
+5-fold Accuracy for Adaboost: 0.81 (+/- 0.01)
+KNN Accuracy:
+		Overall: 0.7777777777777778
+		Negative Class: 0.310546875
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8361111111111111
+		Negative Class: 0.462890625
+Adaboost Accuracy:
+		Overall: 0.8407407407407408
+		Negative Class: 0.396484375
+REDUCING POSITIVE SAMPLE SIZE BY 45.00%
+Proportion of Positive to Negative samples: 3.07:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.74 (+/- 0.01)
+5-fold Accuracy for SVC: 0.75 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.81 (+/- 0.01)
+5-fold Accuracy for Adaboost: 0.80 (+/- 0.02)
+KNN Accuracy:
+		Overall: 0.7746913580246914
+		Negative Class: 0.31640625
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8240740740740741
+		Negative Class: 0.486328125
+Adaboost Accuracy:
+		Overall: 0.8311728395061728
+		Negative Class: 0.431640625
+REDUCING POSITIVE SAMPLE SIZE BY 50.00%
+Proportion of Positive to Negative samples: 2.79:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.73 (+/- 0.04)
+5-fold Accuracy for SVC: 0.74 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.80 (+/- 0.02)
+5-fold Accuracy for Adaboost: 0.78 (+/- 0.02)
+KNN Accuracy:
+		Overall: 0.7672839506172839
+		Negative Class: 0.322265625
+SVC Accuracy:
+		Overall: 0.8419753086419753
+		Negative Class: 0.0
+Random Forest Accuracy:
+		Overall: 0.8274691358024692
+		Negative Class: 0.484375
+Adaboost Accuracy:
+		Overall: 0.8290123456790124
+		Negative Class: 0.4375
+REDUCING POSITIVE SAMPLE SIZE BY 55.00%
+Proportion of Positive to Negative samples: 2.51:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.71 (+/- 0.01)
+5-fold Accuracy for SVC: 0.72 (+/- 0.01)
+5-fold Accuracy for Random Forest: 0.79 (+/- 0.02)
+5-fold Accuracy for Adaboost: 0.78 (+/- 0.03)
+KNN Accuracy:
+		Overall: 0.7577160493827161
+		Negative Class: 0.390625
+SVC Accuracy:
+		Overall: 0.8367283950617284
+		Negative Class: 0.04296875
+Random Forest Accuracy:
+		Overall: 0.812037037037037
+		Negative Class: 0.5625
+Adaboost Accuracy:
+		Overall: 0.8231481481481482
+		Negative Class: 0.49609375
+REDUCING POSITIVE SAMPLE SIZE BY 60.00%
+Proportion of Positive to Negative samples: 2.23:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.69 (+/- 0.02)
+5-fold Accuracy for SVC: 0.71 (+/- 0.01)
+5-fold Accuracy for Random Forest: 0.78 (+/- 0.02)
+5-fold Accuracy for Adaboost: 0.77 (+/- 0.01)
+KNN Accuracy:
+		Overall: 0.7450617283950617
+		Negative Class: 0.416015625
+SVC Accuracy:
+		Overall: 0.8246913580246914
+		Negative Class: 0.1796875
+Random Forest Accuracy:
+		Overall: 0.8095679012345679
+		Negative Class: 0.5703125
+Adaboost Accuracy:
+		Overall: 0.8182098765432099
+		Negative Class: 0.509765625
+REDUCING POSITIVE SAMPLE SIZE BY 65.00%
+Proportion of Positive to Negative samples: 1.95:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.69 (+/- 0.02)
+5-fold Accuracy for SVC: 0.70 (+/- 0.01)
+5-fold Accuracy for Random Forest: 0.78 (+/- 0.02)
+5-fold Accuracy for Adaboost: 0.76 (+/- 0.02)
+KNN Accuracy:
+		Overall: 0.7364197530864197
+		Negative Class: 0.466796875
+SVC Accuracy:
+		Overall: 0.807716049382716
+		Negative Class: 0.357421875
+Random Forest Accuracy:
+		Overall: 0.782716049382716
+		Negative Class: 0.611328125
+Adaboost Accuracy:
+		Overall: 0.8024691358024691
+		Negative Class: 0.5859375
+REDUCING POSITIVE SAMPLE SIZE BY 70.00%
+Proportion of Positive to Negative samples: 1.67:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.67 (+/- 0.02)
+5-fold Accuracy for SVC: 0.69 (+/- 0.01)
+5-fold Accuracy for Random Forest: 0.75 (+/- 0.02)
+5-fold Accuracy for Adaboost: 0.74 (+/- 0.02)
+KNN Accuracy:
+		Overall: 0.7132716049382716
+		Negative Class: 0.478515625
+SVC Accuracy:
+		Overall: 0.7854938271604939
+		Negative Class: 0.455078125
+Random Forest Accuracy:
+		Overall: 0.7753086419753087
+		Negative Class: 0.65625
+Adaboost Accuracy:
+		Overall: 0.7947530864197531
+		Negative Class: 0.611328125
+REDUCING POSITIVE SAMPLE SIZE BY 75.00%
+Proportion of Positive to Negative samples: 1.40:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.65 (+/- 0.02)
+5-fold Accuracy for SVC: 0.69 (+/- 0.03)
+5-fold Accuracy for Random Forest: 0.75 (+/- 0.03)
+5-fold Accuracy for Adaboost: 0.74 (+/- 0.02)
+KNN Accuracy:
+		Overall: 0.6885802469135802
+		Negative Class: 0.529296875
+SVC Accuracy:
+		Overall: 0.7620370370370371
+		Negative Class: 0.537109375
+Random Forest Accuracy:
+		Overall: 0.7549382716049383
+		Negative Class: 0.69140625
+Adaboost Accuracy:
+		Overall: 0.7759259259259259
+		Negative Class: 0.662109375
+REDUCING POSITIVE SAMPLE SIZE BY 80.00%
+Proportion of Positive to Negative samples: 1.12:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.65 (+/- 0.02)
+5-fold Accuracy for SVC: 0.70 (+/- 0.01)
+5-fold Accuracy for Random Forest: 0.76 (+/- 0.02)
+5-fold Accuracy for Adaboost: 0.74 (+/- 0.03)
+KNN Accuracy:
+		Overall: 0.6540123456790123
+		Negative Class: 0.591796875
+SVC Accuracy:
+		Overall: 0.6996913580246914
+		Negative Class: 0.6875
+Random Forest Accuracy:
+		Overall: 0.7114197530864198
+		Negative Class: 0.77734375
+Adaboost Accuracy:
+		Overall: 0.7354938271604938
+		Negative Class: 0.73046875
+REDUCING POSITIVE SAMPLE SIZE BY 85.00%
+Proportion of Positive to Negative samples: 0.84:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.63 (+/- 0.02)
+5-fold Accuracy for SVC: 0.69 (+/- 0.04)
+5-fold Accuracy for Random Forest: 0.74 (+/- 0.04)
+5-fold Accuracy for Adaboost: 0.72 (+/- 0.04)
+KNN Accuracy:
+		Overall: 0.6302469135802469
+		Negative Class: 0.6640625
+SVC Accuracy:
+		Overall: 0.6101851851851852
+		Negative Class: 0.8125
+Random Forest Accuracy:
+		Overall: 0.6746913580246914
+		Negative Class: 0.818359375
+Adaboost Accuracy:
+		Overall: 0.7037037037037037
+		Negative Class: 0.78515625
+REDUCING POSITIVE SAMPLE SIZE BY 90.00%
+Proportion of Positive to Negative samples: 0.56:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.66 (+/- 0.01)
+5-fold Accuracy for SVC: 0.71 (+/- 0.04)
+5-fold Accuracy for Random Forest: 0.76 (+/- 0.04)
+5-fold Accuracy for Adaboost: 0.74 (+/- 0.03)
+KNN Accuracy:
+		Overall: 0.5462962962962963
+		Negative Class: 0.763671875
+SVC Accuracy:
+		Overall: 0.4617283950617284
+		Negative Class: 0.9296875
+Random Forest Accuracy:
+		Overall: 0.5953703703703703
+		Negative Class: 0.884765625
+Adaboost Accuracy:
+		Overall: 0.6188271604938271
+		Negative Class: 0.8203125
+REDUCING POSITIVE SAMPLE SIZE BY 95.00%
+Proportion of Positive to Negative samples: 0.28:1
+*5-FOLD ACCURACIES*
+5-Fold Accuracy for KNN: 0.76 (+/- 0.04)
+5-fold Accuracy for SVC: 0.78 (+/- 0.00)
+5-fold Accuracy for Random Forest: 0.82 (+/- 0.02)
+5-fold Accuracy for Adaboost: 0.80 (+/- 0.03)
+KNN Accuracy:
+		Overall: 0.420679012345679
+		Negative Class: 0.884765625
+SVC Accuracy:
+		Overall: 0.1580246913580247
+		Negative Class: 1.0
+Random Forest Accuracy:
+		Overall: 0.44351851851851853
+		Negative Class: 0.9375
+Adaboost Accuracy:
+		Overall: 0.47530864197530864
+		Negative Class: 0.92578125
