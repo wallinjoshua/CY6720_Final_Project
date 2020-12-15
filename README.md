@@ -15,5 +15,5 @@ High Schools in the United States, as well as state and federal education agenci
 | Saved Models | Load-able dumps of various models, that may be reloaded to run tests. Model names are self-explanatory |
 | Saved Output | Stored output that was used for generating graphs and as a record of the results recorded in the final report |
 
-Link to 2002 Longitudinal Study: [ELS:2002](https://nces.ed.gov/surveys/els2002/)
-Link to 2009 Longitudinal Study: [HSLS:2009](https://nces.ed.gov/surveys/hsls09/)
+Link to 2002 Longitudinal Study: [ELS:2002](https://nces.ed.gov/surveys/els2002/)  
+Link to 2009 Longitudinal Study: [HSLS:2009](https://nces.ed.gov/surveys/hsls09/)  
